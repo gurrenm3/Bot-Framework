@@ -1,5 +1,4 @@
 ﻿using System;
-using System.Threading;
 
 namespace Bot_Framework.ConsoleApp
 {
@@ -7,6 +6,9 @@ namespace Bot_Framework.ConsoleApp
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hello World!");
+
+
             
             Console.ReadLine();
         }

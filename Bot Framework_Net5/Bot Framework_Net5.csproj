@@ -1,0 +1,12 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <RootNamespace>Bot_Framework</RootNamespace>
+    <AssemblyName>Bot Framework</AssemblyName>
+  </PropertyGroup>
+
+  <Import Project="..\Bot Framework_Shared\Bot Framework Shared.projitems" Label="Shared" />
+
+
+</Project>
