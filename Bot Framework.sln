@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bot Framework", "Bot Framework\Bot Framework.csproj", "{23173B9B-B783-498F-B188-2A7FC58633AF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bot Framework.ConsoleApp", "Bot Framework.Console\Bot Framework.ConsoleApp.csproj", "{8B669802-E340-4057-8660-5C291C500DD5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{23173B9B-B783-498F-B188-2A7FC58633AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23173B9B-B783-498F-B188-2A7FC58633AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23173B9B-B783-498F-B188-2A7FC58633AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23173B9B-B783-498F-B188-2A7FC58633AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B669802-E340-4057-8660-5C291C500DD5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B669802-E340-4057-8660-5C291C500DD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B669802-E340-4057-8660-5C291C500DD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B669802-E340-4057-8660-5C291C500DD5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5F905FE2-58BC-4BF4-B2C1-B2E677D92D4B}
+	EndGlobalSection
+EndGlobal
