@@ -11,6 +11,7 @@
   <ItemGroup>
     <Compile Include="$(MSBuildThisFileDirectory)Mouse.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)Point.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Taskbar.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)Win32.cs" />
   </ItemGroup>
 </Project>

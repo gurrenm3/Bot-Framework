@@ -18,7 +18,7 @@ namespace Bot_Framework
         Up
     }
 
-    public class Mouse
+    public static class Mouse
     {
         public static void MouseDown(MouseButton button = MouseButton.Left)
         {
